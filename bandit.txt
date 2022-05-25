@@ -21,3 +21,8 @@ level3->4:
 level4->5:
     file ./-file*
     koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+
+level5->6:
+    find . -size 1033c
+    DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+
