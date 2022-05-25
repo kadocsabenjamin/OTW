@@ -26,3 +26,6 @@ level5->6:
     find . -size 1033c
     DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
+level6->7:
+    find / -size 33c -user bandit7 -group bandit6
+    HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
